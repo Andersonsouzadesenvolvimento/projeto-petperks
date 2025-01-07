@@ -140,7 +140,6 @@ section{
   color: var(--main-color);
   font-size: var(--h1-font);
   font-weight: 700;
-  text-transform: capitalize;
 }
 .cont-text h3{
   color: var(--main-color);
